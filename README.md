@@ -2,8 +2,6 @@
 
 This project shows how to detect faces in real-time using Python and OpenCV. The program uses your computer's camera to find faces and draw rectangles around them.
 
-## Requirements
-
 >Before running, make sure you have `Python 3.x` installed on your machine
 
 ## How to Use
