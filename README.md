@@ -8,8 +8,8 @@ This project shows how to detect faces in real-time using Python and OpenCV. The
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/face-detection-opencv.git
-   cd face-detection-opencv
+   git clone https://github.com/kimkorngmao/FaceDetection.git
+   cd FaceDetection
    ```
 
 2. Install OpenCV:
